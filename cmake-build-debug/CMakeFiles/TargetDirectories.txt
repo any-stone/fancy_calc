@@ -1,0 +1,3 @@
+/Users/kuxanna/CLionProjects/fancy_calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kuxanna/CLionProjects/fancy_calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kuxanna/CLionProjects/fancy_calc/cmake-build-debug/CMakeFiles/fancy_calc.dir
